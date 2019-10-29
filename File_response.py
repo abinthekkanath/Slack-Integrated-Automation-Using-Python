@@ -4,7 +4,7 @@ import os
 import requests
 
 
-token = 'xoxp-24300212688-687202158725-772714060887-daa243e3f375d477c854b38fd5f1b7d2'
+token = 'ox-XXXXX-XXXXX-XXXXXXXXX'
 # token = os.environ.get('SLACKBOT_LUMBERGH_TOKEN')
 
 
